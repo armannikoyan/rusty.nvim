@@ -251,7 +251,7 @@ if !has("gui_running")
         call <SID>X("SpecialKey", s:selection, "", "")
         call <SID>X("Search", s:background, s:yellow, "")
         call <SID>X("TabLine", s:foreground, s:background, "reverse")
-        call <SID>X("StatusLine", s:window, s:yellow, "reverse")
+        call <SID>X("StatusLine", s:yellow, "", "none")
         call <SID>X("StatusLineNC", s:window, s:foreground, "reverse")
         call <SID>X("VertSplit", s:window, s:window, "none")
         call <SID>X("Visual", "", s:selection, "")
@@ -290,12 +290,13 @@ if !has("gui_running")
                 call <SID>X("Structure", s:foreground, "", "none")
                 call <SID>X("Include", s:aqua, "", "")
                 call <SID>X("Operator", s:foreground, "", "")
-                "call <SID>X("Ignore", "666666", "", "")
 
                 " Vim Highlighting
                 call <SID>X("vimCommand", s:red, "", "none")
                 call <SID>X("@namespace", s:foreground, "", "none")
                 call <SID>X("@function", s:aqua, "", "none")
+
+                " LSP Highlighting
                 call <SID>X("@lsp.type.function", s:aqua, "", "none")
                 call <SID>X("@lsp.type.variable", s:foreground, "", "none")
                 call <SID>X("@lsp.type.struct", s:orange, "", "none")
