@@ -1,4 +1,4 @@
-![rusty](https://github.com/namrabtw/assets/blob/main/Screenshot%202023-07-01%20at%2023.45.56.png?raw=true)
+![rusty](https://github.com/Screenshot%25202023-07-01%2520at%252023.45.56.png)
 
 ## Features
 
