@@ -1,4 +1,4 @@
-![rusty](https://github.com/Screenshot%25202023-07-01%2520at%252023.45.56.png)
+![rusty](https://lh3.google.com/u/0/d/1kwRNlbBB2AtPYQ3tdWdx9P05Ypj8U4_c=w402-h300-p-k-nu-iv1)
 
 ## Features
 
