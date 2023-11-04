@@ -1,3 +1,5 @@
+#rusty.nvim
+
 ![rusty](./rusty_nvim.png)
 
 ## Features
