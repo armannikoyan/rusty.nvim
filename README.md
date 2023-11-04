@@ -1,4 +1,4 @@
-#rusty.nvim
+# rusty.nvim
 
 ![rusty](./rusty_nvim.png)
 
